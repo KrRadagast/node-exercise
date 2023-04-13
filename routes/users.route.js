@@ -1,4 +1,5 @@
 import express from "express";
+
 import db from "../mockdb";
 
 const router=express.Router()
